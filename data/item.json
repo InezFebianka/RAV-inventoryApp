@@ -1,0 +1,37 @@
+[
+    {
+        "nama_item":"hindiamie goreng",
+        "unit":2,
+        "stok":683,
+        "harga_satuan":2500,
+        "barang":"https://s1.bukalapak.com/img/10131862792/large/data.png"
+    },
+    {
+        "nama_item":"Gula Pasir curah",
+        "unit":1,
+        "stok":224,
+        "harga_satuan":13000,
+        "barang":"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//95/MTA-2855912/gulaku_gulaku-premium-kuning-kemasan-1-kg_full03.jpg"
+    },
+    {
+        "nama_item":"Kopi Kapal Air Special",
+        "unit":2,
+        "stok":50,
+        "harga_satuan":13500,
+        "barang":"https://s1.bukalapak.com/img/10131862792/large/data.png"
+    },
+    {
+        "nama_item":"Beras Pulen Wangi",
+        "unit":1,
+        "stok":130,
+        "harga_satuan":14300,
+        "barang":"https://www.tagar.id/Asset/uploads2019/1653470231805-ilustrasi-beras.jpg"
+    },
+    {
+        "nama_item":"Teh SariWangsa",
+        "unit":2,
+        "stok":12,
+        "harga_satuan":5500,
+        "barang":"https://id-test-11.slatic.net/p/c8864ea253e9b7acb72390fbc9c8922c.jpg"
+    }
+]

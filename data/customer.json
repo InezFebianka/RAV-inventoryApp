@@ -1,0 +1,29 @@
+[
+    {
+        "nama":"Jhon Doe",
+        "contact":"08123456789",
+        "email":"jhonDoe@mail.com",
+        "alamat":"Sawah Besar, Jakarta Barat",
+        "diskon":15,
+        "tipe_diskon":1,
+        "ktp":"https://miro.medium.com/max/1388/1*KXxj_GFYy9CwAOG-zkGf8g.png"
+    },
+    {
+        "nama":"Jane Doe",
+        "contact":"08987654321",
+        "email":"janeDoe@mail.com",
+        "alamat":"Matraman, Jakarta Timur",
+        "diskon":6000,
+        "tipe_diskon":2,
+        "ktp":"https://miro.medium.com/max/1388/1*KXxj_GFYy9CwAOG-zkGf8g.png"
+    },
+    {
+        "nama":"Julius Doe",
+        "contact":"08555555555",
+        "email":"juliusDoe@mail.com",
+        "alamat":"Cileunyi, Bogor",
+        "diskon":20,
+        "tipe_diskon":1,
+        "ktp":"https://miro.medium.com/max/1388/1*KXxj_GFYy9CwAOG-zkGf8g.png"
+    }
+]
