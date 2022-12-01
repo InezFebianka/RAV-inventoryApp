@@ -1,5 +1,11 @@
 <script>
 
+export default {
+    name: 'SideBar',
+    methods: {
+
+    }
+}
 </script>
 
 <template>
@@ -9,7 +15,7 @@
                 <div class="sb-section">
                     <h2 >ADD</h2>
                     <ul >
-                        <li>ITEM</li>
+                        <li><router-link class="list" to="/input-item">ITEM</router-link> </li>
                         <li>CUSTOMER</li>
                         <li>SALES</li>
                     </ul>
@@ -18,9 +24,9 @@
                 <div class="sb-section">
                     <h2 >SEE DATA</h2>
                     <ul >
-                        <li>ITEM</li>
-                        <li>CUSTOMER</li>
-                        <li>SALES</li>
+                        <li><router-link class="list" to="/">ITEM</router-link> </li>
+                        <li><router-link class="list" to="/customer-list">CUSTOMER</router-link> </li>
+                        <li><router-link class="list" to="/sales">SALES</router-link> </li>
                     </ul>
                 </div>    
             </div>
@@ -35,12 +41,17 @@
     padding: 10px;
     border-radius: 20px;
 }
+.list{
+    text-decoration: none;
+    color: #424141;
+}
 li{
     list-style: none;
     
 }
 li:hover{
     background-color: rgb(136, 134, 135);
+    cursor: pointer;
 }
 h2{
     padding-bottom: 10px;
