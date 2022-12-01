@@ -41,6 +41,10 @@ export default{
                 <label for="harga_satuan">Harga Satuan</label>
                 <input type="number" v-model="itemForm.harga_satuan" id="harga_satuan" class="form-control" placeholder="isi harga satuan produk">
             </div>
+            <div class="form-section">
+                <label for="barang">Barang</label>
+                <input type="number" v-model="itemForm.barang" id="barang" class="form-control" placeholder="isi link gambar produk">
+            </div>
             <div class="form-btn">
                 <PrimaryButton msg="Submit"/>
             </div>

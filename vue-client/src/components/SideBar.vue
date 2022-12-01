@@ -15,8 +15,8 @@ export default {
                 <div class="sb-section">
                     <h2 >ADD</h2>
                     <ul >
-                        <li><router-link class="list" to="/input-item">ITEM</router-link> </li>
-                        <li>CUSTOMER</li>
+                        <li><router-link class="list" to="/input-item">ITEM</router-link></li>
+                        <li><router-link class="list" to="/input-customer">CUSTOMER</router-link></li>
                         <li>SALES</li>
                     </ul>
                 </div>
